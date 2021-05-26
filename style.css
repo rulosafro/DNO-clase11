@@ -29,10 +29,11 @@ h2{
 }
 
 body{
-	background: #b4efface;
 	background-image: url('images2/Fondo3.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
+	background: #b4efface;
+	
 
 }
 
