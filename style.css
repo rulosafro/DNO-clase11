@@ -6,7 +6,7 @@
 
 header{
 	background:#868484;
-	background-image: url('images2/texture-background.png');
+	background-image: url('images2/fondoa2.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	/* background:#868484; */
@@ -28,9 +28,22 @@ h2{
 	font-family: 'Merriweather', serif;
 }
 
-.id2{
-	border: 1px solid #ddd;
-	border-radius: 4px;
-	padding: 5px;
-	width: 150px;
+body{
+	background: #b4efface;
+	background-image: url('images2/Fondo3.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
 }
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
+.card2 { 
+	opacity: 0.9;
+	background-color: rgba(179, 179, 179, 0.699); 
+  }
