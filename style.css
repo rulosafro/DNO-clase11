@@ -46,4 +46,7 @@ body{
 .card2 { 
 	opacity: 0.9;
 	background-color: rgba(179, 179, 179, 0.699); 
+	backdrop-filter: blur( 3.5px );
+	-webkit-backdrop-filter: blur( 3.5px );
+	border-radius: 10px;
   }
